@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# dotenv environment variable file
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# npm package distribution
+npm-debug.log*
+
+# Build output
+/dist
+/build
+
+# Test coverage
+coverage/**
+
+# Misc.
+*.tgz
+*.zip
+*.tar.gz
